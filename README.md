@@ -1,12 +1,14 @@
 <!DOCTYPE html>
-<html>
-<head>
-<style>
-h1 {
-text-align: center;
-color: red;
-}
-</style>
+  <html lang="en">
+    
+  <head>
+    <style>
+      h1 {
+      text-align:center;
+      color: red;
+      }
+    </style>
+   
 </head>
 
 <body>
