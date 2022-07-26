@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 h1 {
@@ -36,3 +38,4 @@ McKinnieCodes
 </footer>
 
 </body>
+</html>
